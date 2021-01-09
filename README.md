@@ -3,3 +3,7 @@
 #### ***Project code base included in this repository
 
 #### Experienced in doing regression and classification analytics.
+
+#### Topics of the Projects:
+#### 1. House Price Prediction
+#### 2. 
